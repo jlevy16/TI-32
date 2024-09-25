@@ -912,9 +912,9 @@
       )
     )
   )
-  (gr_text "TI-32 v0.1\nChromaLock\n2024" (at 86.487 61.087) (layer "F.SilkS") (tstamp ca582abf-50bc-483e-b5ba-5f8b6b67ec15)
+  (gr_text "MAXIM v0\nSample\n2024" (at 86.487 61.087) (layer "F.SilkS") (tstamp ca582abf-50bc-483e-b5ba-5f8b6b67ec15)
     (effects (font (face "Joystix Monospace") (size 1.7 1.7) (thickness 0.2) bold) (justify left bottom))
-    (render_cache "TI-32 v0.1\nChromaLock\n2024" 0
+    (render_cache "MAXIM v0\nSample\n2024" 0
       (polygon
         (pts
           (xy 88.212624 53.393593)          (xy 86.758133 53.393593)          (xy 86.758133 53.658084)          (xy 87.233967 53.658084)
