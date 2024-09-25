@@ -9,7 +9,7 @@
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "cheating-calc",
+      "Name": "calc",
       "GUID": "63686561-7469-46e6-972d-63616c632e6b",
       "Revision": "rev?"
     },
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "cheating-calc-F_Cu.gbr",
+      "Path": "calc-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cheating-calc-B_Cu.gbr",
+      "Path": "calc-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cheating-calc-F_Paste.gbr",
+      "Path": "calc-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cheating-calc-B_Paste.gbr",
+      "Path": "calc-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cheating-calc-F_Silkscreen.gbr",
+      "Path": "calc-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cheating-calc-B_Silkscreen.gbr",
+      "Path": "calc-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cheating-calc-F_Mask.gbr",
+      "Path": "calc-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "cheating-calc-B_Mask.gbr",
+      "Path": "calc-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "cheating-calc-Edge_Cuts.gbr",
+      "Path": "calc-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
