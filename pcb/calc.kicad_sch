@@ -797,7 +797,7 @@
     )
     (pin "1" (uuid 9a243e6c-7bcb-4cb5-836c-fe462fa25bb4))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "#PWR08") (unit 1)
         )
@@ -822,7 +822,7 @@
     )
     (pin "1" (uuid c942a940-a17e-4b10-b6c0-aa8d1984552d))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "#PWR06") (unit 1)
         )
@@ -847,7 +847,7 @@
     )
     (pin "1" (uuid 059cf445-6dfe-47cc-90f8-626bd411b51c))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "#PWR07") (unit 1)
         )
@@ -872,7 +872,7 @@
     )
     (pin "1" (uuid 39b4ee56-dfea-4163-800a-857b35123136))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "#PWR09") (unit 1)
         )
@@ -899,7 +899,7 @@
     (pin "3" (uuid 0d5baabc-bb8f-44ca-9646-eddeabbe8b18))
     (pin "2" (uuid 701365c2-06d3-4bc0-8ce1-6751fc2b89c0))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "Q2") (unit 1)
         )
@@ -924,7 +924,7 @@
     )
     (pin "1" (uuid bf73104d-4b9e-4e11-b70a-14fcd138a6f5))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "#PWR03") (unit 1)
         )
@@ -949,7 +949,7 @@
     )
     (pin "1" (uuid e407455a-f02c-4992-9507-37196b3f3dab))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "#PWR01") (unit 1)
         )
@@ -975,7 +975,7 @@
     (pin "1" (uuid 23a29dab-056b-46fc-a0f3-e11180dd49b3))
     (pin "2" (uuid c74e9ddf-4596-4d13-ba60-8e6418c976d2))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "R2") (unit 1)
         )
@@ -1001,7 +1001,7 @@
     (pin "1" (uuid 526cd157-e389-4359-a397-a8a63205fecc))
     (pin "2" (uuid 1a840b87-2c61-426c-9f02-8c381ff1b8e2))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "R1") (unit 1)
         )
@@ -1026,7 +1026,7 @@
     )
     (pin "1" (uuid a281f2af-0283-4dc4-8e49-27d34251b72a))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "#PWR05") (unit 1)
         )
@@ -1054,7 +1054,7 @@
     (pin "3" (uuid ce2086cb-549d-473d-8dd7-4bf49facf8ca))
     (pin "4" (uuid 50728d5a-bb1a-4f6f-b45d-64cca65269f1))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "J1") (unit 1)
         )
@@ -1080,7 +1080,7 @@
     (pin "1" (uuid 6ef1f06f-7675-4ce4-bb70-e591457985b3))
     (pin "2" (uuid 5721e11d-8b19-48aa-afb3-98c8b31b6e6a))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "R3") (unit 1)
         )
@@ -1105,7 +1105,7 @@
     )
     (pin "1" (uuid a452609e-5e4c-433f-8b1a-954c08476bc1))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "#PWR04") (unit 1)
         )
@@ -1143,7 +1143,7 @@
     (pin "8" (uuid 5623552f-cd19-414b-9844-f589a35d9f5b))
     (pin "7" (uuid 2e5fa4e2-3f2f-472c-9ab9-c287545166c4))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "U1") (unit 1)
         )
@@ -1169,7 +1169,7 @@
     (pin "1" (uuid 05adfb45-262c-4fdb-b16b-f239ccad71f5))
     (pin "2" (uuid c67fc3c4-11bc-4cb9-962c-41c9e356224f))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "R4") (unit 1)
         )
@@ -1194,7 +1194,7 @@
     )
     (pin "1" (uuid 88494b8b-8b67-4b18-93cf-074bc4b78c05))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "#PWR02") (unit 1)
         )
@@ -1221,7 +1221,7 @@
     (pin "3" (uuid 705187fb-18b7-469d-8996-66d5a4ce329c))
     (pin "1" (uuid e45b5954-b2ee-41a5-9e0b-f234b24213ef))
     (instances
-      (project "cheating-calc"
+      (project "calc"
         (path "/dc32c202-8f02-44ca-a16c-c11d7f3acb8d"
           (reference "Q1") (unit 1)
         )
